@@ -39,7 +39,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<p align="center"><i>commit messages are a direct reflection of my mental state at time of writing. read at your own risk.</i></p>
+<p align="center"><i>Well Most of my real repos are private, so i don't know, it might look like i do nothing haha.</i></p>
 
 ---
 
