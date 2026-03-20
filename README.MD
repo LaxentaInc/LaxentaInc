@@ -7,15 +7,15 @@
 <p align="center">
 
 **[ColorWall](https://colorwall.xyz)** — 4K live wallpaper engine for Windows 10/11<br>
-`Rust` `Tauri` `D3D11` `WMF` `8MB` `near-zero overhead`<br>
-<i>a wallpaper engine in 8mb. yes it's real. no it's not malware (0/72 on virustotal, ask microsoft why they flagged it)</i>
+`Rust` `Tauri`<br>
+<i>a wallpaper engine in 8mb. yes it's real. (0/72 on virustotal)</i>
 
 </p>
 
 <p align="center">
 
 **periodicwm** — custom X11 window manager + DE built from scratch on Linux<br>
-`C++` `X11` `Xlib` — collab with a friend, we just opened the repo and it's already chaotic
+`C++` `X11` `Xlib` — collab with a friend, we just opened the repo
 
 </p>
 
@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">🕐 recent activity</h2>
+<h2 align="center">recent activity</h2>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
