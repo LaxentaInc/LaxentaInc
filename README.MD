@@ -57,6 +57,13 @@
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VS Code"></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub"></a>
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="30" width="30" alt="Kotlin"></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="30" width="30" alt="Node.js"></a>
+
+
+
 </p>
 
 ---
