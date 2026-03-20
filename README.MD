@@ -4,7 +4,7 @@
 
 ---
 
-## 🔨 what i'm building
+## what i'm building
 
 **[ColorWall](https://colorwall.xyz)** — 4K live wallpaper engine for Windows 10/11  
 `Rust` `Tauri` `D3D11` `WMF` `8MB` `near-zero overhead`
@@ -14,8 +14,6 @@
 `C++` `X11` `Xlib` — collab with a friend, we just opened the repo and it's already chaotic
 
 ---
-
-## 📊 stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LaxentaInc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -28,7 +26,7 @@
 
 ---
 
-## 🕐 recent activity
+## recent activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -37,7 +35,7 @@
 
 ---
 
-## 🛠 stack
+## stack
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
