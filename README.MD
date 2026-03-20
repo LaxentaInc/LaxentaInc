@@ -45,25 +45,21 @@
 ---
 
 <h2 align="center">stack</h2>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="30" width="30" alt="Rust"></a>
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="30" width="30" alt="TypeScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="30" width="30" alt="JavaScript"></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="30" width="30" alt="React"></a>
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" height="30" width="30" alt="Next.js"></a>
+  <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" height="30" width="30" alt="Vite"></a>
+  <a href="https://tauri.app"><img src="https://skillicons.dev/icons?i=tauri" height="30" width="30" alt="Tauri"></a>
+  <a href="https://www.electronjs.org"><img src="https://skillicons.dev/icons?i=electron" height="30" width="30" alt="Electron"></a>
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="30" width="30" alt="MongoDB"></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://skillicons.dev/icons?i=windows" height="30" width="30" alt="Windows"></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VS Code"></a>
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub"></a>
   <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="30" width="30" alt="Kotlin"></a>
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="30" width="30" alt="Node.js"></a>
-
-
-
 </p>
 
 ---
