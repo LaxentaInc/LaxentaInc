@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&width=600&lines=hey+i'm+me;18+y%2Fo+systems+dev+%40+LaxentaInc;i+build+things+that+shouldn't+fit+in+8mb;rust+%2B+windows+internals+%2B+too+much+coffee)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square)
-
 ---
 
 <h2 align="center"> What i'm building</h2>
@@ -72,4 +70,5 @@
 
 ---
 
-<p align="center"><sub>50gb of compiled rust artifacts and counting 💀</sub></p>
+<p align="center">![](https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square)
+
