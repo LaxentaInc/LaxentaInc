@@ -70,6 +70,6 @@
 
 ---
 
-<p align="center">https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square
+![](https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square)
 
 
