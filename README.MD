@@ -55,7 +55,7 @@
   <a href="https://colorwall.xyz">
     <img src="https://img.shields.io/badge/colorwall.xyz-00B4D8?style=flat-square&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/colorwall">
+  <a href="https://discord.gg/FkTvpsXc">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   </a>
 </p>
