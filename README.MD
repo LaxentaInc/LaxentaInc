@@ -8,8 +8,8 @@
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> What I'm Building
 
-**[ColorWall](https://colorwall.xyz)** — 4K live wallpaper engine for Windows 10/11
-`Rust` `Tauri` — *a wallpaper engine in 8mb. yes it's real. (0/72 on virustotal)*
+**[ColorWall](https://colorwall.xyz)** — 8K live wallpaper/Desktop Customization engine for Windows 10/11
+`Rust` `Tauri` — *a wallpaper engine with shaders/particles/store/library etc. in 10mb. yes it's real, 0/72 VirusTotal*
 
 **periodicwm** — custom X11 window manager + DE built from scratch on Linux
 `C++` `X11` `Xlib` — *collab with a friend, we just opened the repo*
