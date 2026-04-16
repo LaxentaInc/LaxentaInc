@@ -37,10 +37,10 @@
 
 ---
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Stats
+// ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=LaxentaInc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-mwendwa.vercel.app/api?username=LaxentaInc&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxentaInc&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 <p>
