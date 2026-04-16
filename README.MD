@@ -10,9 +10,9 @@
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="46" alt="kyubey"/>
-
-## &nbsp;building
+```
+ building
+```
 
 <table>
 <tr>
@@ -37,9 +37,9 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="46" alt="kyubey"/>
-
-## &nbsp;stack
+```
+ stack
+```
 
 <p>
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="36" alt="Rust"/></a>&nbsp;
@@ -60,9 +60,9 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="46" alt="kyubey"/>
-
-## &nbsp;stats
+```
+ stats
+```
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=LaxentaInc&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=8ca0c0&icon_color=00b4d8&title_color=00b4d8&line_height=24" height="165"/>
@@ -74,9 +74,9 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="46" alt="kyubey"/>
-
-## &nbsp;links
+```
+ links
+```
 
 <p>
   <a href="https://colorwall.xyz">
@@ -89,9 +89,9 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
 
 <br>
 
-<img align="right" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="46" alt="kyubey"/>
-
-## &nbsp;recent activity
+```
+ recent activity
+```
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -101,7 +101,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" width="60" alt="kyubey"/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="32" alt="kyubey"/>
   <br>
   <sub><i>most of my real repos are private — i promise i do stuff</i></sub>
 </div>
