@@ -6,17 +6,19 @@
 
 ---
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> What I'm Building
+## What I'm Building
 
 **[ColorWall](https://colorwall.xyz)** — 8K live wallpaper/Desktop Customization engine for Windows 10/11
 `Rust` `Tauri` — *a wallpaper engine with shaders/particles/store/library etc. in 10mb. yes it's real, 0/72 VirusTotal*
+https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03
+## <img height="40" src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" alt="kyubey"/> Languages & Tools
 
 **periodicwm** — custom X11 window manager + DE built from scratch on Linux
 `C++` `X11` `Xlib` — *collab with a friend, we just opened the repo*
 
 ---
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Languages & Tools
+## <img height="40" src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" alt="kyubey"/> Languages & Tools
 
 <p>
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="30" width="30" alt="Rust"></a>
@@ -37,7 +39,7 @@
 
 ---
 
-// ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Stats
+## Stats
 
 <p>
   <img src="https://github-readme-mwendwa.vercel.app/api?username=LaxentaInc&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" height="165"/>
