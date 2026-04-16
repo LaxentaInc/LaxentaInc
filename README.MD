@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" width="1200" alt="kyubey"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=hey+i'm+me;18+y%2Fo+Hobbyist+developer+<.3+%40+LaxentaInc;I+build+things+that+shouldn't+fit+in+your+Mom;rust+%2B+windows+internals+%2B+too+much+coffee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=hey+i'm+me;18+y%2Fo+Hobbyist+developer+<.3+%40+LaxentaInc;I+build+things+that+shouldn't+fit+in+your+Mom;Well+%2B+I+love+rust+and+typescript+win32internals+%2B+are+cool+to+learn+ngl)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=views"/>
 
