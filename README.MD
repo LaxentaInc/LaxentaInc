@@ -10,7 +10,7 @@
 
 **[ColorWall](https://colorwall.xyz)** — 8K live wallpaper/Desktop Customization engine for Windows 10/11
 `Rust` `Tauri` — *a wallpaper engine with shaders/particles/store/library etc. in 10mb. yes it's real, 0/72 VirusTotal*
-## <img height="400" src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" alt="kyubey"/>
+## <img height="1200" src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" alt="kyubey"/>
 
 **periodicwm** — custom X11 window manager + DE built from scratch on Linux
 `C++` `X11` `Xlib` — *collab with a friend, we just opened the repo*
