@@ -104,4 +104,5 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="32" alt="kyubey"/>
   <br>
   <sub><i>most of my real repos are private — i promise i do stuff</i></sub>
+<img src="https://private-user-images.githubusercontent.com/204142083/579024010-1ebc62a7-b1ec-4e4d-9264-f14f325dbf46.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzYzMTg1NzIsIm5iZiI6MTc3NjMxODI3MiwicGF0aCI6Ii8yMDQxNDIwODMvNTc5MDI0MDEwLTFlYmM2MmE3LWIxZWMtNGU0ZC05MjY0LWYxNGYzMjVkYmY0Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNDE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDQxNlQwNTQ0MzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMTA5ZjIzMjQwN2NhOWQwNDE0ZDYyMmM1NGZhYmE0YTgwZjkxYzIxZmI0ODc2ZDQzYWQ2Y2I0N2ZkZjZkYWU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.FTsIz317AxKvzn0vikvnhKcxOb9FwDo3yOjo9tKT0To" />
 </div>
