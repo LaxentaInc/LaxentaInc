@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=hey+i'm+me;18+y%2Fo+Hobbyist+developer+<.3+%40+LaxentaInc;I+build+things+that+shouldn't+fit+in+your+Mom;Well+%2B+I+love+rust+and+typescript+win32internals+%2B+are+cool+to+learn+ngl)](https://git.io/typing-svg)
 
+[![Typing SVG](https://demolab.com+<.3+%40+LaxentaInc;I+build+things+that+shouldn't+fit+in+your+Mom;Well+%2B+I+love+rust+and+typescript+win32internals+%2B+are+cool+to+learn+ngl)](https://git.io/typing-svg)
+
 <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=views"/>
 
 </div>
