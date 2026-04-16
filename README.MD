@@ -1,54 +1,57 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00B4D8&width=600&lines=hey+i'm+me;18+y%2Fo+systems+dev+%40+LaxentaInc;i+build+things+that+shouldn't+fit+in+8mb;rust+%2B+windows+internals+%2B+too+much+coffee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00B4D8&center=true&width=600&lines=hey+i'm+me;18+y%2Fo+systems+dev+%40+LaxentaInc;i+build+things+that+shouldn't+fit+in+8mb;rust+%2B+windows+internals+%2B+too+much+coffee)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
-## What I'm Building
+## building
 
-**[ColorWall](https://colorwall.xyz)** — 8K live wallpaper/Desktop Customization engine for Windows 10/11
-`Rust` `Tauri` — *a wallpaper engine with shaders/particles/store/library etc. in 10mb. yes it's real, 0/72 VirusTotal*
-## <img height="1200" src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" alt="kyubey"/>
+**[ColorWall](https://colorwall.xyz)** — 8K live wallpaper & desktop customization engine for Windows 10/11
 
-**periodicwm** — custom X11 window manager + DE built from scratch on Linux
-`C++` `X11` `Xlib` — *collab with a friend, we just opened the repo*
+`Rust` `Tauri` — *shaders, particles, store, library — in 10mb. 0/72 on VirusTotal.*
 
----
+**periodicwm** — custom X11 window manager + DE built from scratch
 
-<p>
-  <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="30" width="30" alt="Rust"></a>
-  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="30" width="30" alt="TypeScript"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="30" width="30" alt="JavaScript"></a>
-  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="30" width="30" alt="React"></a>
-  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" height="30" width="30" alt="Next.js"></a>
-  <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" height="30" width="30" alt="Vite"></a>
-  <a href="https://tauri.app"><img src="https://skillicons.dev/icons?i=tauri" height="30" width="30" alt="Tauri"></a>
-  <a href="https://www.electronjs.org"><img src="https://skillicons.dev/icons?i=electron" height="30" width="30" alt="Electron"></a>
-  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="30" width="30" alt="MongoDB"></a>
-  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="30" width="30" alt="Kotlin"></a>
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="30" width="30" alt="Node.js"></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="30" width="30" alt="Git"></a>
-  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub"></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VS Code"></a>
-</p>
+`C++` `X11` `Xlib` — *collab with a friend, repo just opened.*
 
----
+<br>
 
-## Stats
+## stack
 
 <p>
-  <img src="https://github-readme-mwendwa.vercel.app/api?username=LaxentaInc&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxentaInc&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="32" alt="Rust"/></a>
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="32" alt="TypeScript"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="32" alt="JavaScript"/></a>
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" height="32" alt="React"/></a>
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="Next.js"/></a>
+  <a href="https://vitejs.dev"><img src="https://skillicons.dev/icons?i=vite" height="32" alt="Vite"/></a>
+  <a href="https://tauri.app"><img src="https://skillicons.dev/icons?i=tauri" height="32" alt="Tauri"/></a>
+  <a href="https://www.electronjs.org"><img src="https://skillicons.dev/icons?i=electron" height="32" alt="Electron"/></a>
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="MongoDB"/></a>
+  <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" height="32" alt="Kotlin"/></a>
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" height="32" alt="Node.js"/></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="32" alt="Git"/></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="32" alt="VS Code"/></a>
+</p>
+
+<br>
+
+## stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LaxentaInc&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=8ca0c0&icon_color=00b4d8&title_color=e0eaff&line_height=24" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxentaInc&layout=compact&hide_border=true&bg_color=0d1117&text_color=8ca0c0&title_color=e0eaff" height="160"/>
 </p>
 <p>
-  <img src="https://streak-stats.demolab.com?user=LaxentaInc&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=LaxentaInc&hide_border=true&background=0d1117&stroke=1e2530&ring=00b4d8&fire=00b4d8&currStreakLabel=8ca0c0&sideNums=e0eaff&sideLabels=3a4a60&dates=3a4a60&currStreakNum=e0eaff"/>
 </p>
 
----
+<br>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Links
+## links
 
 <p>
   <a href="https://colorwall.xyz">
@@ -59,15 +62,15 @@
   </a>
 </p>
 
----
-
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="kyubey"/> Recent Activity
+## recent activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-*Most of my real repos are private, so it might look like I do nothing — I promise I do.*
+<br>
 
 ---
 
+<sub>most of my real repos are private — i promise i do stuff</sub>
+&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square"/>
