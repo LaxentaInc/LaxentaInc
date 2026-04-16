@@ -17,8 +17,6 @@
 
 ---
 
-## <img height="40" src="https://github.com/user-attachments/assets/e711ae2b-c1c7-4849-ba1a-91a545d43d03" alt="kyubey"/> Languages & Tools
-
 <p>
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="30" width="30" alt="Rust"></a>
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="30" width="30" alt="TypeScript"></a>
