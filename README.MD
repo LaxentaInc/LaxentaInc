@@ -26,7 +26,7 @@
 </td>
 <td width="50%" valign="top">
 
-**periodicwm**
+**periodicwm** by @periodicbrake63
 &nbsp;`C++` `X11` `Xlib`
 
 Custom X11 window manager + DE built from scratch. Collab with a friend — repo just opened.
