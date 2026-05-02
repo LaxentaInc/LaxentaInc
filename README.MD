@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/dccea671-d307-415f-9684-de6367fae0d5" width="1200" alt="kyubey"/>
 <img width="1920" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fd8574e6-3f1c-4386-9a81-0332f43f8bce" />
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=1000&lines=hey+i'm+me;18+y%2Fo+Hobbyist+developer+<.3+%40+LaxentaInc;I+build+things+that+shouldn't+fit+in+your+Mom;Well+%2B+I+love+rust+and+typescript+win32internals+%2B+are+cool+to+learn+ngl)](https://git.io/typing-svg)
 
