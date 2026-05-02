@@ -91,12 +91,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
 
 <br>
 
-```
- recent activity
-```
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br>
 
