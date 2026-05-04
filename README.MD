@@ -23,8 +23,8 @@
 **[ColorWall](https://colorwall.xyz)**
 &nbsp;`Rust` `Tauri`
 
-8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all in **10mb**. 0/72 on VirusTotal.
-
+8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all in **10mb**. 0/72 on VirusTotal. -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
+Our Organisation: [Colorwall's Team & Organisation](https://github.com/Colorwall)
 </td>
 <td width="50%" valign="top">
 
