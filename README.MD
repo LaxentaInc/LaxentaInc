@@ -68,7 +68,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend — repo
 ```
 
 <p>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LaxentaInc?theme=dark&cardType=level" height="185" width="590"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LaxentaInc?theme=dark&cardType=level" height="185"/>
   <img src="https://github-readme-streak-stats-steel-pi.vercel.app/?user=LaxentaInc&private=true&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly height="165"/>
 </p>
 <p>
