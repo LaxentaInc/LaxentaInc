@@ -29,12 +29,24 @@ Our Organisation: [Colorwall's Team & Organisation](https://github.com/Colorwall
 
 <td width="50%" valign="top">
 
+**[MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)** by @LaxentaInc
+&nbsp;`Typescript ofcourse`
+
+Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
+https://www.npmjs.com/package/mts-migrator
+Repo is Pinned too <.3
+https://github.com/LaxentaInc/Magikk-Typescript-Migrator
+</td>
+
+<td width="50%" valign="top">
+
 **periodicwm** by @periodicbrake63
 &nbsp;`C++` `X11` `Xlib`
 
-Custom X11 window manager + DE built from scratch. Collab with a friend — repo just opened.
+Custom X11 window manager + DE built from scratch. Collab with a friend (boo he gave up, we suck at c++).
 
 </td>
+
 </tr>
 </table>
 
