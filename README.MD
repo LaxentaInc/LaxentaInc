@@ -29,7 +29,7 @@ Our Organisation: [Colorwall's Team & Organisation](https://github.com/Colorwall
 
 <td width="50%" valign="top">
 
-**[MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)** by @LaxentaInc
+**[MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)**
 &nbsp;`Typescript ofcourse`
 
 Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
