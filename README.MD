@@ -35,7 +35,6 @@ Our Organisation: [Colorwall's Team & Organisation](https://github.com/Colorwall
 Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
 https://www.npmjs.com/package/mts-migrator
 Repo is Pinned too <.3
-https://github.com/LaxentaInc/Magikk-Typescript-Migrator
 </td>
 
 <td width="50%" valign="top">
