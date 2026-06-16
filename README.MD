@@ -112,6 +112,5 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="32" alt="kyubey"/>
   <br>
   <h2 <i>WELL mai real repos are private :c i promise i do stuff</i></h2>
-  <a href="https://colorwall.xyz">https://colorwall.xyz Check it out if you want <.3</a>
-<img width="1920" height="1034" alt="Image" src="https://github.com/user-attachments/assets/3517c235-a965-4065-941b-77326d1fb07f" />
+
 </div>
