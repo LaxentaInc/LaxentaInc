@@ -17,7 +17,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**[ColorWall](https://colorwall.xyz)**
+**[ColorWall](https://github.com/LaxentaInc/WallpaperEngine-Linux)**
 `Rust` `Tauri`
 
 8K live wallpaper & desktop customization engine for Windows 10/11, Working for linux Especially Since a long time, also made windows once recently because i knew how to, since a long time, i worked on scene compositors and wmf, so it was easier - both will be providing shaders, particles, store, library — all in **10mb**. -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
