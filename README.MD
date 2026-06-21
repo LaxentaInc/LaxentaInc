@@ -20,7 +20,7 @@
 **[ColorWall](https://github.com/LaxentaInc/WallpaperEngine-Linux)**
 `Rust` `Tauri`
 
-8K live wallpaper & desktop customization engine for Windows/Linux/Mac too ig i am doing linux currently and windows one too since half a month, i have come pretty far in it, Linux will start well sorry next month ;, also made windows once recently (cz of a competition at microsoft), i worked on scene compositors and wmf, so it was easier - both will be providing shaders, particles, store, library — all in **10mb**. -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
+8K live wallpaper & desktop customization engine for Windows/Linux/Mac too ig i am doing linux currently and windows one too since half a month, i have come pretty far in it, Linux will start well sorry next month; also made windows once recently (cz of a competition at microsoft), i worked on scene compositors and wmf, so it was easier - both will be providing shaders, particles, store, library
 ^^ (upcoming shift to colorwall.moe)
 </td>
 
@@ -31,7 +31,7 @@
 Version is at currently 2.2.1, added more proper ast matching and update it overall, also the CLI
 Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
 https://www.npmjs.com/package/mts-migrator
-Repo is Pinned too <.3
+Repo is Pinned too <.3 -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
 </td>
 
 <td width="50%" valign="top">
