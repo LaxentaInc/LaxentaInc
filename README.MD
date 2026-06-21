@@ -28,7 +28,7 @@
 
 **[MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)**
 &nbsp;`Typescript ofcourse`
-
+Version is at currently 2.2.1, added more proper ast matching and update it overall, also the CLI
 Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
 https://www.npmjs.com/package/mts-migrator
 Repo is Pinned too <.3
@@ -90,9 +90,6 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 ```
 
 <p>
-  <a href="https://colorwall.xyz">
-    <img src="https://img.shields.io/badge/colorwall.xyz-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
   <a href="https://discord.gg/FkTvpsXc">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
