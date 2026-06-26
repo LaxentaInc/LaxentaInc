@@ -30,7 +30,6 @@
 &nbsp;`Typescript ofcourse`
 Version is at currently 2.2.1, added more proper ast matching and update it overall, also the CLI
 Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
-https://www.npmjs.com/package/mts-migrator
 Repo is Pinned too <.3 -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
 </td>
 
