@@ -95,7 +95,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
   <a href="https://colorwall.xyz">
     <img src="https://img.shields.io/badge/colorwall.xyz-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/FkTvpsXc">
+  <a href="https://discord.com/invite/QYwhay7r2V">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
@@ -106,7 +106,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <div align="center">
 
-<a href="https://patron.colorwall.xyz">💛 Support the cause — we're doing Linux support as open source now!</a>
+<a href="https://patron.colorwall.xyz">💛 Support the cause - we're doing Linux support as open source now!</a>
 
 <br><br>
 
