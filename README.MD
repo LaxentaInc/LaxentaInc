@@ -1,7 +1,6 @@
 
 <div align="center">
-
-<img width="1920" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fd8574e6-3f1c-4386-9a81-0332f43f8bce" />
+<img width="1920" height="1037" alt="Image" src="https://github.com/user-attachments/assets/70d3fa2b-0ef3-4d3d-8cb9-93b54459e3e4" />
 
 <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=views"/>
 
@@ -118,6 +117,6 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br><br>
 
-<img width="1920" height="1037" alt="Image" src="https://github.com/user-attachments/assets/70d3fa2b-0ef3-4d3d-8cb9-93b54459e3e4" />
+<img width="1920" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fd8574e6-3f1c-4386-9a81-0332f43f8bce" />
 
 </div>
