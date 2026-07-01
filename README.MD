@@ -1,7 +1,6 @@
 <div align="center">
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00B4D8&center=true&vCenter=true&width=1000&lines=hey+i+am+me;18+y%2Fo+Hobbyist+developer+<.3+%40+LaxentaInc;I+am+just+me;Well+%2B+I+like+rust+and+typescript+%2B+are+cool+to+learn+ngl)](https://git.io/typing-svg)
+<img width="1920" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fd8574e6-3f1c-4386-9a81-0332f43f8bce" />
 
 <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=views"/>
 
@@ -17,20 +16,21 @@
 <tr>
 <td width="50%" valign="top">
 
-**[ColorWall](https://github.com/LaxentaInc/WallpaperEngine-Linux)**
+**[ColorWall](https://colorwall.xyz)**
 `Rust` `Tauri`
 
-8K live wallpaper & desktop customization engine for Windows/Linux/Mac too ig i am doing linux currently and windows one too since half a month, i have come pretty far in it, Linux will start well sorry next month; also made windows once recently (cz of a competition at microsoft), i worked on scene compositors and wmf, so it was easier - both will be providing shaders, particles, store, library
-^^ (upcoming shift to colorwall.moe)
+8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all in **10mb**. 0/72 on VirusTotal. -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
+Our Organisation: [Colorwall's Team & Organisation](https://github.com/Colorwall) ^^ https://colorwall.xyz (upcoming shift to colorwall.moe but for now it's going to be colorwall.xyz)
 </td>
 
 <td width="50%" valign="top">
 
 **[MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)**
 &nbsp;`Typescript ofcourse`
-Version is at currently 2.2.1, added more proper ast matching and update it overall, also the CLI
+
 Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
-Repo is Pinned too <.3 -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
+https://www.npmjs.com/package/mts-migrator
+Repo is Pinned too <.3
 </td>
 
 <td width="50%" valign="top">
@@ -89,6 +89,9 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 ```
 
 <p>
+  <a href="https://colorwall.xyz">
+    <img src="https://img.shields.io/badge/colorwall.xyz-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://discord.gg/FkTvpsXc">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
@@ -106,5 +109,6 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="32" alt="kyubey"/>
   <br>
   <h2 <i>WELL mai real repos are private :c i promise i do stuff</i></h2>
-
+  <a href="https://colorwall.xyz">https://colorwall.xyz Check it out if you want <.3</a>
+<img width="1920" height="1034" alt="Image" src="https://github.com/user-attachments/assets/3517c235-a965-4065-941b-77326d1fb07f" />
 </div>
