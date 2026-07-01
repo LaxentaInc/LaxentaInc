@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="1920" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fd8574e6-3f1c-4386-9a81-0332f43f8bce" />
@@ -9,39 +10,40 @@
 <br>
 
 ```
- THE PROJECTS, I AM WORKING ON (Contributions are Welcome!!!)
+ THE PROJECTS I AM WORKING ON (Contributions are Welcome!!!)
 ```
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **[ColorWall](https://colorwall.xyz)**
 `Rust` `Tauri`
 
-8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all in **10mb**. 0/72 on VirusTotal. -By @laxenta.me (Laxenta, same instagram name, same discord name too!)
-Our Organisation: [Colorwall's Team & Organisation](https://github.com/Colorwall) ^^ https://colorwall.xyz (upcoming shift to colorwall.moe but for now it's going to be colorwall.xyz)
-</td>
+8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all in **10mb**. 0/72 on VirusTotal.
+By [@laxenta.me](https://instagram.com/laxenta.me) (same Instagram & Discord name)
+Org: [Colorwall's Team & Organisation](https://github.com/Colorwall)
+Upcoming move: colorwall.xyz → colorwall.moe
 
-<td width="50%" valign="top">
+</td>
+<td width="33%" valign="top">
 
 **[MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)**
-&nbsp;`Typescript ofcourse`
+`TypeScript`
 
-Full code migrator of a javascript project to typescript with type inference and patching with ast! Contribute if one can.
-https://www.npmjs.com/package/mts-migrator
-Repo is Pinned too <.3
-</td>
-
-<td width="50%" valign="top">
-
-**periodicwm** by @periodicbrake63
-&nbsp;`C++` `X11` `Xlib`
-
-Custom X11 window manager + DE built from scratch. Collab with a friend (boo he gave up, we suck at c++).
+Full JS → TypeScript project migrator with type inference and AST patching. Contributions welcome!
+[npm: mts-migrator](https://www.npmjs.com/package/mts-migrator)
+📌 Pinned repo
 
 </td>
+<td width="33%" valign="top">
 
+**periodicwm** by [@periodicbrake63](https://github.com/periodicbrake63)
+`C++` `X11` `Xlib`
+
+Custom X11 window manager + DE built from scratch. Collab project (my collaborator gave up on it — C++ humbled us both 😅).
+
+</td>
 </tr>
 </table>
 
@@ -74,11 +76,12 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
  stats
 ```
 
-<p>
+<p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LaxentaInc?theme=dark&cardType=level" height="185"/>
-<img src="https://github-readme-streak-stats-steel-pi.vercel.app/?user=LaxentaInc&private=true&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly" height="185" />
+  <img src="https://github-readme-streak-stats-steel-pi.vercel.app/?user=LaxentaInc&private=true&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly" height="185" />
 </p>
-<p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=LaxentaInc&hide_border=true&background=0d1117&stroke=1e2530&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideNums=e0eaff&sideLabels=8ca0c0&dates=8ca0c0&currStreakNum=e0eaff"/>
 </p>
 
@@ -88,7 +91,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
  links
 ```
 
-<p>
+<p align="center">
   <a href="https://colorwall.xyz">
     <img src="https://img.shields.io/badge/colorwall.xyz-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -99,16 +102,22 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br>
 
-
-
-<br>
-
 ---
 
 <div align="center">
-    <a href="https://patron.colorwall.xyz">Support the Cause, cz we doing Linux as opensource now!</a>
-  <br>
-  <h2 <i>WELL my repos are private :c i promise i do stuff</i></h2>
-  <a href="https://colorwall.xyz">Our Main Site! Check it!</a>
-  <img width="1920" height="1037" alt="Image" src="https://github.com/user-attachments/assets/70d3fa2b-0ef3-4d3d-8cb9-93b54459e3e4" />
+
+<a href="https://patron.colorwall.xyz">💛 Support the cause — we're doing Linux support as open source now!</a>
+
+<br><br>
+
+<i>Most of my repos are private, but I promise I do stuff 🙂</i>
+
+<br>
+
+<a href="https://colorwall.xyz">🌐 Check out our main site!</a>
+
+<br><br>
+
+<img width="1920" height="1037" alt="Image" src="https://github.com/user-attachments/assets/70d3fa2b-0ef3-4d3d-8cb9-93b54459e3e4" />
+
 </div>
