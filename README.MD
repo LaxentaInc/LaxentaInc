@@ -110,7 +110,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br><br>
 
-<i>Most of my repos are private, but I promise I do stuff 🙂</i>
+<i>Most of my repos are private, but I promise I do stuff lowk man i am tuff dw</i>
 
 <br>
 
