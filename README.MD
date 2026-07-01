@@ -117,6 +117,5 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br><br>
 
-<img width="1920" height="1077" alt="Image" src="https://github.com/user-attachments/assets/fd8574e6-3f1c-4386-9a81-0332f43f8bce" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d997443b-71d0-4696-bac9-1ce6ee24e0d0" />
 </div>
