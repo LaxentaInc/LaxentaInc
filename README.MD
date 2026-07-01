@@ -23,7 +23,7 @@
 8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all in **10mb**. 0/72 on VirusTotal.
 By [@laxenta.me](https://instagram.com/laxenta.me) (same Instagram & Discord name)
 Org: [Colorwall's Team & Organisation](https://github.com/Colorwall)
-Upcoming move: colorwall.xyz → colorwall.moe
+Upcoming change to: colorwall.xyz → colorwall.moe
 
 </td>
 <td width="33%" valign="top">
@@ -41,7 +41,7 @@ Full JS → TypeScript project migrator with type inference and AST patching. Co
 **periodicwm** by [@periodicbrake63](https://github.com/periodicbrake63)
 `C++` `X11` `Xlib`
 
-Custom X11 window manager + DE built from scratch. Collab project (my collaborator gave up on it — C++ humbled us both 😅).
+Custom X11 window manager + DE built from scratch. Collab with a friend (boo he gave up, we suck at c++).
 
 </td>
 </tr>
