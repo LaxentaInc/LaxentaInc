@@ -106,7 +106,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 ---
 
 <div align="center">
-    <a href="https://patron.colorwall.xyz>Support the Cause, cz we doing Linux as opensource now!</a>
+    <a href="https://patron.colorwall.xyz">Support the Cause, cz we doing Linux as opensource now!</a>
   <br>
   <h2 <i>WELL my repos are private :c i promise i do stuff</i></h2>
   <a href="https://colorwall.xyz">https://colorwall.xyz Check it!</a>
