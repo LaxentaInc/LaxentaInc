@@ -1,7 +1,7 @@
 
 <div align="center">
 <img width="1920" height="1038" alt="Image" src="https://github.com/user-attachments/assets/c5834e0b-8928-474f-8018-8788194de06a" />
-<img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=views"/>
+<img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=Meows~"/>
 
 </div>
 
