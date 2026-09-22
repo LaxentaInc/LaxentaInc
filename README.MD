@@ -71,10 +71,6 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br>
 
-```
- stats
-```
-
 <p align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LaxentaInc?theme=dark&cardType=level" height="185"/>
 </p>
@@ -85,9 +81,6 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br>
 
-```
- links
-```
 
 <p align="center">
   <a href="https://colorwall.xyz">
