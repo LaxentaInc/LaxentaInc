@@ -36,8 +36,9 @@ Full JS → TypeScript project migrator with type inference and AST patching. Co
 </td>
 <td width="33%" valign="top">
 
-**periodicwm** by [@periodicbrake63](https://github.com/periodicbrake63)
-`C++` `X11` `Xlib`
+[Demise](https://github.com/LaxentaInc/Demise-overruled)
+**A Minecraft Utility Client, made to bypass Anticheats, designed with no blatant modes, and predefined thresholds for bypasses!!**
+`Java`
 
 Custom X11 window manager + DE built from scratch. Collab with a friend (boo he gave up, we suck at c++).
 
