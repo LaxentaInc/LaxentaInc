@@ -48,10 +48,6 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br>
 
-```
- stack
-```
-
 <p>
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="36" alt="Rust"/></a>&nbsp;
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript"/></a>&nbsp;
