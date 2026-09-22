@@ -104,7 +104,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <div align="center">
 
-<a href="https://patron.colorwall.xyz">💛 Support the cause - we're doing Linux support as open source now!</a>
+<a href="https://patron.colorwall.xyz">💛 Support little me peez :c</a>
 
 <br><br>
 
@@ -116,5 +116,5 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br><br>
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/0d6f030a-8cc7-457a-bf91-644fc0b9967f" />
+<img width="1900" height="1034" alt="Image" src="https://github.com/user-attachments/assets/43fbd695-2a7d-4813-8c8e-1e452ab2641a" />
 </div>
