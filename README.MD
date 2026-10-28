@@ -5,6 +5,50 @@
 
 </div>
 
+Just fixed a built in nuke in colorwall, this is the most funny and unintended thing that could be there
+
+```ps
+Dump File: C:\Users\MY-PC\Desktop\colorwall.DMP
+File Size: 256.25 MB
+Signature: MDMP (Valid)
+Version: 42899.41057
+Number of Streams: 17
+Dump Flags: 0x0000000000421826
+
+[SystemInfo] Arch: 9 (0=x86, 9=x64), CPUs: 8, OS Build: 19045
+[Process Info] Target PID: 29600
+
+[Process VM Counters]
+ - Virtual Size:         0.08 GB (89,796,608 bytes)
+ - Peak Virtual Size:    4035232.00 GB (4,332,797,369,974,786 bytes)
+ - Private Usage/Commit: 0.10 GB (103,473,152 bytes)
+ - Working Set (RAM):    0.46 MB (482,144 bytes)
+ - Peak Working Set:     0.54 MB
+ - Pagefile Usage:       56.61 GB (60,785,352,704 bytes)
+ - Peak Pagefile Usage:  56.48 GB
+ - Page Fault Count:     88,195,072
+
+[System Memory Info] Revision: 1, Entries: 15
+
+[Threads] Total active threads: 157
+
+[Handles] Total open handle descriptors: 843
+
+[Modules] Total loaded modules: 78
+[Modules] Error: too many values to unpack (expected 4)
+
+[VAD / Memory Regions] Total memory regions: 1705
+ - Total Committed:   0.25 GB (258.5 MB)
+   * Private Commit:  0.09 GB (95.0 MB)
+   * Mapped Commit:   0.04 GB (40.4 MB)
+   * Image Commit:    0.12 GB (123.1 MB)
+ - Total Reserved:    56.23 GB
+ - Regions >= 10MB:   4
+   -> 0x01b84df60000: 18.4 MB (MAPPED, prot=0x2)
+   -> 0x7ff6ee421000: 16.0 MB (IMAGE, prot=0x20)
+   -> 0x7ff6ef420000: 11.9 MB (IMAGE, prot=0x2)
+   -> 0x01b84a650000: 11.8 MB (MAPPED, prot=0x2)
+```
 <br>
 
 ```
