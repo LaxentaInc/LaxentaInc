@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>The Chronicles of Colorwall: The 4-Exabyte Oversight</h3>
-  <p>Just fixed a built-in hardware nuke. We accidentally engineered a memory leak so aggressive it speedran the entire 64-bit address space, registering a god-tier <b>4.03 PETABYTES OF VIRTUAL MEMORY ALLOCATION</b> overnight. It was spectacular.</p>
+  <p>Just fixed a built-in hardware nuke. We accidentally engineered a memory leak so aggressive it speedran the entire 64-bit address space, registering a <b>4.03 PETABYTES OF VIRTUAL MEMORY ALLOCATION</b> overnight. It was spectacular. But not big enough to store your mom's feet pics</p>
   <p>Read the full chaotic breakdown in the milestone release log here: <a href="https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2"><b>Colorwall v4.4.2</b></a></p>
 </div>
 
