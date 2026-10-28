@@ -1,92 +1,75 @@
-
 <div align="center">
-<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/582635b1-817b-480e-a7e2-ba7896fc061c" />
-<img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=Meows~"/>
-
+  <img width="1920" height="1040" alt="Colorwall Banner" src="https://github.com/user-attachments/assets/582635b1-817b-480e-a7e2-ba7896fc061c" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=Meows~"/>
 </div>
 
-<div align="center"> Just fixed a built in nuke in colorwall, this is the most funny and unintended thing that could be there (4 PENTABYTES OF MEMORY ALLOC LMAO) </div>
-<div align="center"> I wrote the changelog cz shit was too funny plus it's a Milestone solidifying it finally!: https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2 </div>
+<br>
 
+<div align="center">
+  <h3>🚨 The Chronicles of Colorwall: The 4-Exabyte Oversight 🚨</h3>
+  <p>Just fixed a built-in hardware nuke. We accidentally engineered a memory leak so aggressive it speedran the entire 64-bit address space, registering a god-tier <b>4.03 PETABYTES OF VIRTUAL MEMORY ALLOCATION</b> overnight. It was spectacular.</p>
+  <p>Read the full chaotic breakdown in the milestone release log here: <a href="https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2"><b>Colorwall v4.4.2</b></a></p>
+</div>
+
+<details open>
+<summary><b>📊 View Legendary .DMP Diagnosis</b></summary>
 
 ```ps
 Dump File: C:\Users\MY-PC\Desktop\colorwall.DMP
-File Size: 256.25 MB
-Signature: MDMP (Valid)
-Version: 42899.41057
-Number of Streams: 17
-Dump Flags: 0x0000000000421826
+File Size: 256.25 MB | Signature: MDMP (Valid) | Version: 42899.41057
 
-[SystemInfo] Arch: 9 (0=x86, 9=x64), CPUs: 8, OS Build: 19045
-[Process Info] Target PID: 29600
+[System Info]
+Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 
 [Process VM Counters]
  - Virtual Size:         0.08 GB (89,796,608 bytes)
- - Peak Virtual Size:    4035232.00 GB (4,332,797,369,974,786 bytes)
+ - Peak Virtual Size:    4035232.00 GB (4,332,797,369,974,786 bytes) !!!
  - Private Usage/Commit: 0.10 GB (103,473,152 bytes)
  - Working Set (RAM):    0.46 MB (482,144 bytes)
- - Peak Working Set:     0.54 MB
  - Pagefile Usage:       56.61 GB (60,785,352,704 bytes)
- - Peak Pagefile Usage:  56.48 GB
  - Page Fault Count:     88,195,072
 
-[System Memory Info] Revision: 1, Entries: 15
-
-[Threads] Total active threads: 157
-
-[Handles] Total open handle descriptors: 843
-
-[Modules] Total loaded modules: 78
-[Modules] Error: too many values to unpack (expected 4)
-
-[VAD / Memory Regions] Total memory regions: 1705
- - Total Committed:   0.25 GB (258.5 MB)
-   * Private Commit:  0.09 GB (95.0 MB)
-   * Mapped Commit:   0.04 GB (40.4 MB)
-   * Image Commit:    0.12 GB (123.1 MB)
- - Total Reserved:    56.23 GB
- - Regions >= 10MB:   4
-   -> 0x01b84df60000: 18.4 MB (MAPPED, prot=0x2)
-   -> 0x7ff6ee421000: 16.0 MB (IMAGE, prot=0x20)
-   -> 0x7ff6ef420000: 11.9 MB (IMAGE, prot=0x2)
-   -> 0x01b84a650000: 11.8 MB (MAPPED, prot=0x2)
+[Threads & Handles]
+ - Total Active Threads: 157 (Runaway V8 GC & COM contexts)
+ - Total Open Handles:   843
 ```
+</details>
+
 <br>
 
-```
- THE PROJECTS I AM WORKING ON (Contributions are Welcome!!!)
-```
+<h3 align="center">🛠️ Active Projects (Contributions Welcome!)</h3>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**[ColorWall](https://colorwall.xyz)**
+### 💻 [ColorWall](https://colorwall.xyz)
 `Rust` `Tauri`
 
-8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all in **10mb**. 0/72 on VirusTotal.
-By [@laxenta.me](https://instagram.com/laxenta.me) (same Instagram & Discord name)
-Org: [Colorwall's Team & Organisation](https://github.com/Colorwall)
-Upcoming change to: colorwall.xyz → colorwall.moe
+8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all packed into a **10mb** executable. 0/72 on VirusTotal.
+*   **By:** [@laxenta.me](https://instagram.com/laxenta.me)
+*   **Org:** [Colorwall Team](https://github.com/Colorwall)
+*   *Moving soon to colorwall.moe*
 
 </td>
 <td width="33%" valign="top">
 
-**[MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)**
+### ⚡ [MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)
 `TypeScript`
 
-Full JS → TypeScript project migrator with type inference and AST patching. Contributions welcome!
-[npm: mts-migrator](https://www.npmjs.com/package/mts-migrator)
-📌 Pinned repo
+Full, automated JS → TypeScript project migrator featuring deep type inference and AST patching. 
+*   **Package:** [npm: mts-migrator](https://www.npmjs.com/package/mts-migrator)
+*   📌 *Pinned Repository*
 
 </td>
 <td width="33%" valign="top">
 
-[Demise](https://github.com/LaxentaInc/Demise-overruled)
-**A Minecraft Utility Client, made to bypass Anticheats, designed with no blatant modes, and predefined thresholds for bypasses!!**
+### 🎮 [Demise](https://github.com/LaxentaInc/Demise-overruled)
 `Java`
 
-Custom X11 window manager + DE built from scratch. Collab with a friend (boo he gave up, we suck at c++).
+Advanced Minecraft Utility Client explicitly designed to bypass modern anti-cheats using custom, non-blatant modules and predefined threshold checks.
+*   *Also working on a custom X11 Window Manager + DE from scratch.*
 
 </td>
 </tr>
@@ -94,7 +77,7 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="36" alt="Rust"/></a>&nbsp;
   <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" height="36" alt="TypeScript"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="36" alt="JavaScript"/></a>&nbsp;
@@ -109,47 +92,35 @@ Custom X11 window manager + DE built from scratch. Collab with a friend (boo he 
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" height="36" alt="Git"/></a>&nbsp;
   <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub"/></a>&nbsp;
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" height="36" alt="VS Code"/></a>
-</p>
+</div>
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LaxentaInc?theme=dark&cardType=level" height="185"/>
-</p>
-
-<p align="center">
+  <br>
   <img src="https://streak-stats.demolab.com?user=LaxentaInc&hide_border=true&background=0d1117&stroke=1e2530&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideNums=e0eaff&sideLabels=8ca0c0&dates=8ca0c0&currStreakNum=e0eaff"/>
-</p>
+</div>
 
 <br>
 
-
-<p align="center">
+<div align="center">
   <a href="https://colorwall.xyz">
     <img src="https://img.shields.io/badge/colorwall.xyz-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://discord.com/invite/QYwhay7r2V">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</p>
-
-<br>
+</div>
 
 ---
 
 <div align="center">
-
-<a href="https://patron.colorwall.xyz">💛 Support little me peez :c</a>
-
-<br><br>
-
-<i>Most of my repos are private, but I promise I do stuff lowk man i am tuff dw</i>
-
-<br>
-
-<a href="https://colorwall.xyz">🌐 Check out our main site!</a>
-
-<br><br>
-
-<img width="1900" height="1034" alt="Image" src="https://github.com/user-attachments/assets/43fbd695-2a7d-4813-8c8e-1e452ab2641a" />
+  <a href="https://patron.colorwall.xyz">💛 Support little me peez :c</a>
+  <br><br>
+  <i>Most of my repos are private, but I promise I do stuff lowk man i am tuff dw</i>
+  <br><br>
+  <a href="https://colorwall.xyz">🌐 Check out our main site!</a>
+  <br><br>
+  <img width="1900" height="1034" alt="Colorwall Engine Preview" src="https://github.com/user-attachments/assets/43fbd695-2a7d-4813-8c8e-1e452ab2641a" />
 </div>
