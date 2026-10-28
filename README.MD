@@ -55,11 +55,10 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 </td>
 <td width="33%" valign="top">
 
-### ⚡ [MTS Migrator](https://github.com/LaxentaInc/Magikk-Typescript-Migrator)
-`TypeScript`
+### ⚡ [Archive Walls](https://github.com/LaxentaInc/ArchiveWalls)
+`TypeScript (it's an extension)`
 
-Full, automated JS → TypeScript project migrator featuring deep type inference and AST patching. 
-*   **Package:** [npm: mts-migrator](https://www.npmjs.com/package/mts-migrator)
+Full extension for wallpapers, with inbuilt store, widgets, trading stuff, and the BEST bookmark management, we all know how ass chrome is with bookmarks.
 *   📌 *Pinned Repository*
 
 </td>
