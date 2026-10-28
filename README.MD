@@ -6,7 +6,9 @@
 </div>
 
 <div align="center"> Just fixed a built in nuke in colorwall, this is the most funny and unintended thing that could be there (4 PENTABYTES OF MEMORY ALLOC LMAO) </div>
-I wrote the changelog cz shit was too funny plus it's a Milestone solidifying it finally!: https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2 
+<div align="center"> I wrote the changelog cz shit was too funny plus it's a Milestone solidifying it finally!: https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2 </div>
+
+
 ```ps
 Dump File: C:\Users\MY-PC\Desktop\colorwall.DMP
 File Size: 256.25 MB
