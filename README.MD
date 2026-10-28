@@ -68,7 +68,7 @@ Full extension for wallpapers, with inbuilt store, widgets, trading stuff, and t
 `Java`
 
 Advanced Minecraft Utility Client explicitly designed to bypass modern anti-cheats using custom, non-blatant modules and predefined threshold checks.
-*   *Also working on a custom X11 Window Manager + DE from scratch.*
+*   *Also working on an upcoming Linux Wallpaper Engine (full suite yes) i know how to make it, but i do not have a Linux machine to test, so it will wait till i get a job lol*
 
 </td>
 </tr>
