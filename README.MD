@@ -47,7 +47,7 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 ### 💻 [ColorWall](https://colorwall.xyz)
 `Rust` `Tauri`
 
-8K live wallpaper & desktop customization engine for Windows 10/11 — shaders, particles, store, library — all packed into a **10mb** executable. 0/72 on VirusTotal.
+8K live wallpaper & desktop customization engine wiTH `widgets` for Windows 10/11, shaders, particles, store, libraryl all packed into a **225mb** app!.
 *   **By:** [@laxenta.me](https://instagram.com/laxenta.me)
 *   **Org:** [Colorwall Team](https://github.com/Colorwall)
 *   *Moving soon to colorwall.moe*
@@ -55,7 +55,7 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 </td>
 <td width="33%" valign="top">
 
-### ⚡ [Archive Walls](https://github.com/LaxentaInc/ArchiveWalls)
+### [Archive Walls](https://github.com/LaxentaInc/ArchiveWalls)
 `TypeScript (it's an extension)`
 
 Full extension for wallpapers, with inbuilt store, widgets, trading stuff, and the BEST bookmark management, we all know how ass chrome is with bookmarks.
