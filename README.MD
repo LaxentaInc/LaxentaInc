@@ -115,7 +115,7 @@ Advanced Minecraft Utility Client explicitly designed to bypass modern anti-chea
 ---
 
 <div align="center">
-  <a href="https://patron.colorwall.xyz">💛 Support little me peez :c</a>
+  <a href="https://patron.colorwall.xyz">💛 Wanna see one of the best patron sites? Well i am no specialist but hell i tried</a>
   <br><br>
   <i>Most of my repos are private, but I promise I do stuff lowk man i am tuff dw</i>
   <br><br>
