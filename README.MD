@@ -44,7 +44,7 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 <tr>
 <td width="33%" valign="top">
 
-### 💻 [ColorWall](https://colorwall.xyz)
+### [ColorWall](https://colorwall.xyz)
 `Rust` `Tauri`
 
 8K live wallpaper & desktop customization engine wiTH `widgets` for Windows 10/11, shaders, particles, store, libraryl all packed into a **225mb** app!.
@@ -64,7 +64,7 @@ Full extension for wallpapers, with inbuilt store, widgets, trading stuff, and t
 </td>
 <td width="33%" valign="top">
 
-### 🎮 [Demise](https://github.com/LaxentaInc/Demise-overruled)
+### [Demise](https://github.com/LaxentaInc/Demise-overruled)
 `Java`
 
 Advanced Minecraft Utility Client explicitly designed to bypass modern anti-cheats using custom, non-blatant modules and predefined threshold checks.
