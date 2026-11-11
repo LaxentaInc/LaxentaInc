@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="1920" height="1040" alt="Colorwall Banner" src="https://github.com/user-attachments/assets/582635b1-817b-480e-a7e2-ba7896fc061c" />
+  <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/2072ecf7-e62c-4544-8d3e-9fc5121b19ff" />
+
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=Meows~"/>
 </div>
