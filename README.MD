@@ -3,6 +3,9 @@
 
   <br><br>
 
+> [!TIP]  
+> I build stuff and working on priopetary softwares
+
   <img src="https://komarev.com"/>
   <a href="https://colorwall.xyz">
     <img src="https://img.shields.io/badge/COLORWALL.XYZ-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
