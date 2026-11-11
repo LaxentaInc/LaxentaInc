@@ -59,7 +59,7 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 
 ---
 
-<h3 align="center">ACTIVE DEPLOYMENTS & OPEN-SOURCE</h3>
+
 <p align="center"><i>Most core repositories are private, but open-source wallpaper tooling and utilities are actively maintained below.</i></p>
 
 <table>
