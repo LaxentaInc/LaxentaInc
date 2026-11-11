@@ -19,22 +19,22 @@
 
 
 > [!NOTE]
-> I build stuff and working on proprietary software
+> I build stuff, opensource stuff too and work on proprietary software to outpace the old utilities dragging people's devices down, support me at https://patron.colorwall.xyz (or just look at the peak 3d design of it), if you want to contribute, you may, and if you have any bug reports regarding the software under Laxenta LLC. please report them under the specific site url, and the help email's provided within! Ily! Take care <3 
 
 ---
 
 <div align="center">
-  <h3>THE CHRONICLES OF COLORWALL: THE 4-PETABYTE OVERSIGHT</h3>
+  <h3>THE CHRONICLES OF Colorwall: THE 4-PETABYTE Oversight</h3>
   <p>
    Just fixed a built-in hardware nuke. We accidentally engineered a memory leak so aggressive it speedran the entire 64-bit address space, registering a <b>4.03 PETABYTES OF VIRTUAL MEMORY ALLOCATION</b> overnight. It was spectacular. But not big enough to store your mom's pics.
   </p>
   <p>
-    <i>(No larpers pls)</i> — Read the post-mortem in the <a href="https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2"><b>ColorWall v4.4.2 Release Log</b></a>.
+    <i>(No larpers pls)</i> Read the dmp logs at: <a href="https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2"><b>ColorWall v4.4.2 Release Log</b></a>.
   </p>
 </div>
 
 <details>
-<summary><b>[ + ] INSPECT LEGENDARY .DMP DIAGNOSIS</b></summary>
+<summary><b>[ + ] (it's not a joke)</b></summary>
 
 ```ps
 Dump File: C:\Users\MY-PC\Desktop\colorwall.DMP
