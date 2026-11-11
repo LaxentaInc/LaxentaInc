@@ -66,7 +66,7 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 <tr>
 <td width="50%" valign="top">
 
-### [Archive Walls](https://github.com/LaxentaInc/ArchiveWalls) OPEN SOURCE
+### [Archive Walls](https://github.com/LaxentaInc/ArchiveWalls)
 `TypeScript` `React 19` `Manifest V3`
 
 High-performance browser wallpaper engine and new-tab suite featuring IndexedDB binary video caching, zero-repaint widget grids, focus music, and bookmark management that fixes Chrome's native mess.
@@ -76,7 +76,7 @@ High-performance browser wallpaper engine and new-tab suite featuring IndexedDB 
 </td>
 <td width="50%" valign="top">
 
-### [WallpaperEngine-Linux](https://github.com/LaxentaInc/WallpaperEngine-Linux) OPEN SOURCE
+### [WallpaperEngine-Linux](https://github.com/LaxentaInc/WallpaperEngine-Linux)
 `Rust` `Zero-Copy Rendering`
 
 Full desktop customization suite and live wallpaper engine engineered with zero-copy rendering pipelines for Linux environments.
