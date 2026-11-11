@@ -3,10 +3,7 @@
 
   <br><br>
 
-> [!TIP]  
-> I build stuff and working on priopetary softwares
-
-  <img src="https://komarev.com"/>
+  <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=Meows~"/>
   <a href="https://colorwall.xyz">
     <img src="https://img.shields.io/badge/COLORWALL.XYZ-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -19,6 +16,10 @@
 </div>
 
 <br>
+
+
+> [!NOTE]
+> I build stuff and working on proprietary software
 
 ---
 
