@@ -88,10 +88,10 @@ Full desktop customization suite and live wallpaper engine engineered with zero-
 <tr>
 <td width="50%" valign="top">
 
-### [ColorWall](https://colorwall.xyz) `PROPRIETARY`
+### [ColorWall](https://colorwall.xyz) Available for free
 `Rust` `Tauri` `Direct3D11`
 
-8K live wallpaper and desktop customization engine for Windows 10/11. Packs hardware-accelerated video/shader decoding, audio-reactive effects, widgets, and an inbuilt store into a **225 MB** footprint.
+8K live wallpaper and desktop customization engine for Windows 10/11. Packs hardware-accelerated video/shader decoding, A full **Market Place**, **Creator Profiles(more upcoming features for studio and creators)** `100mb ram usage idle`, audio-reactive effects, widgets, and an inbuilt store into a **225 MB** bin.
 * **Org:** [Colorwall Team](https://github.com/Colorwall) | **By:** [@laxenta.me](https://instagram.com/laxenta.me)
 * *Migrating soon to colorwall.moe*
 
