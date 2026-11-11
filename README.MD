@@ -59,7 +59,7 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 
 ---
 
-
+<h3 align="center">ACTIVE DEPLOYMENTS & OPEN-SOURCE PROJECTS <3</h3>
 <p align="center"><i>Most core repositories are private, but open-source wallpaper tooling and utilities are actively maintained below.</i></p>
 
 <table>
@@ -112,8 +112,6 @@ Performant Minecraft utility client engineered to bypass modern anti-cheats via 
 <br>
 
 ---
-
-<h3 align="center">CORE STACK & TELEMETRY</h3>
 
 <div align="center">
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="36" alt="Rust"/></a>&nbsp;
