@@ -1,20 +1,36 @@
 <div align="center">
-  <img width="1920" height="1041" alt="image" src="https://github.com/user-attachments/assets/2072ecf7-e62c-4544-8d3e-9fc5121b19ff" />
+  <img width="1920" height="1041" alt="ColorWall Engine Banner" src="https://github.com/user-attachments/assets/2072ecf7-e62c-4544-8d3e-9fc5121b19ff" />
 
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=LaxentaInc&color=00B4D8&style=flat-square&label=Meows~"/>
+
+  <img src="https://komarev.com"/>
+  <a href="https://colorwall.xyz">
+    <img src="https://img.shields.io/badge/COLORWALL.XYZ-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/invite/QYwhay7r2V">
+    <img src="https://shields.io"/>
+  </a>
+  <a href="https://patron.colorwall.xyz">
+    <img src="https://shields.io"/>
+  </a>
 </div>
 
 <br>
 
+---
+
 <div align="center">
-  <h3>The Chronicles of Colorwall: The 4-Exabyte Oversight</h3>
-  <p>Just fixed a built-in hardware nuke. We accidentally engineered a memory leak so aggressive it speedran the entire 64-bit address space, registering a <b>4.03 PETABYTES OF VIRTUAL MEMORY ALLOCATION</b> overnight. It was spectacular. But not big enough to store your mom's pics.</p>
-  <p>(No larpers pls) Read the full breakdown in the milestone release log here: <a href="https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2"><b>Colorwall v4.4.2 release notes</b></a></p>
+  <h3>THE CHRONICLES OF COLORWALL: THE 4-PETABYTE OVERSIGHT</h3>
+  <p>
+   Just fixed a built-in hardware nuke. We accidentally engineered a memory leak so aggressive it speedran the entire 64-bit address space, registering a <b>4.03 PETABYTES OF VIRTUAL MEMORY ALLOCATION</b> overnight. It was spectacular. But not big enough to store your mom's pics.
+  </p>
+  <p>
+    <i>(No larpers pls)</i> — Read the post-mortem in the <a href="https://github.com/Colorwall/Colorwall/releases/tag/Colorwall-v4.4.2"><b>ColorWall v4.4.2 Release Log</b></a>.
+  </p>
 </div>
 
-<details open>
-<summary><b> View Legendary .DMP Diagnosis</b></summary>
+<details>
+<summary><b>[ + ] INSPECT LEGENDARY .DMP DIAGNOSIS</b></summary>
 
 ```ps
 Dump File: C:\Users\MY-PC\Desktop\colorwall.DMP
@@ -37,45 +53,63 @@ Arch: 9 (x64) | CPUs: 8 | OS Build: 19045 | Target PID: 29600
 ```
 </details>
 
-<br>
+---
 
-<h3 align="center">🛠️ Active Projects (Contributions Welcome!)</h3>
+<h3 align="center">ACTIVE DEPLOYMENTS & OPEN-SOURCE</h3>
+<p align="center"><i>Most core repositories are private, but open-source wallpaper tooling and utilities are actively maintained below.</i></p>
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [ColorWall](https://colorwall.xyz)
-`Rust` `Tauri`
+### [Archive Walls](https://github.com/LaxentaInc/ArchiveWalls) `OPEN SOURCE`
+`TypeScript` `React 19` `Manifest V3`
 
-8K live wallpaper & desktop customization engine wiTH `widgets` for Windows 10/11, shaders, particles, store, libraryl all packed into a **225mb** app!.
-*   **By:** [@laxenta.me](https://instagram.com/laxenta.me)
-*   **Org:** [Colorwall Team](https://github.com/Colorwall)
-*   *Moving soon to colorwall.moe*
-
-</td>
-<td width="33%" valign="top">
-
-### [Archive Walls](https://github.com/LaxentaInc/ArchiveWalls)
-`TypeScript (it's an extension)`
-
-Full extension for wallpapers, with inbuilt store, widgets, trading stuff, and the BEST bookmark management, we all know how ass chrome is with bookmarks.
-*   📌 *Pinned Repository*
+High-performance browser wallpaper engine and new-tab suite featuring IndexedDB binary video caching, zero-repaint widget grids, focus music, and bookmark management that fixes Chrome's native mess.
+* **Status:** Active Focus / Pinned
+* **License:** GPL-3.0
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### [Demise](https://github.com/LaxentaInc/Demise-overruled)
-`Java`
+### [WallpaperEngine-Linux](https://github.com) `OPEN SOURCE`
+`Rust` `Zero-Copy Rendering`
 
-Advanced Minecraft Utility Client explicitly designed to bypass modern anti-cheats using custom, non-blatant modules and predefined threshold checks.
-*   *Also working on an upcoming Linux Wallpaper Engine (full suite yes) i know how to make it, but i do not have a Linux machine to test, so it will wait till i get a job lol*
+Full desktop customization suite and live wallpaper engine engineered with zero-copy rendering pipelines for Linux environments.
+* **Status:** Active Development
+* **Ecosystem:** [colorwall.xyz](https://colorwall.xyz)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ColorWall](https://colorwall.xyz) `PROPRIETARY`
+`Rust` `Tauri` `Direct3D11`
+
+8K live wallpaper and desktop customization engine for Windows 10/11. Packs hardware-accelerated video/shader decoding, audio-reactive effects, widgets, and an inbuilt store into a **225 MB** footprint.
+* **Org:** [Colorwall Team](https://github.com/Colorwall) | **By:** [@laxenta.me](https://instagram.com/laxenta.me)
+* *Migrating soon to colorwall.moe*
+
+</td>
+<td width="50%" valign="top">
+
+### [Demise Overruled](https://github.com/LaxentaInc/Demise-overruled) `OPEN SOURCE`
+`Java 17` `1.8.9`
+
+Performant Minecraft utility client engineered to bypass modern anti-cheats via custom non-blatant modules and predefined threshold checks.
+* **Builds:** [Automated Releases](https://github.com)
+* **License:** AGPL-3.0
 
 </td>
 </tr>
 </table>
 
 <br>
+
+---
+
+<h3 align="center">CORE STACK & TELEMETRY</h3>
 
 <div align="center">
   <a href="https://www.rust-lang.org"><img src="https://skillicons.dev/icons?i=rust" height="36" alt="Rust"/></a>&nbsp;
@@ -104,23 +138,9 @@ Advanced Minecraft Utility Client explicitly designed to bypass modern anti-chea
 
 <br>
 
-<div align="center">
-  <a href="https://colorwall.xyz">
-    <img src="https://img.shields.io/badge/colorwall.xyz-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/invite/QYwhay7r2V">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</div>
-
 ---
 
 <div align="center">
-  <a href="https://patron.colorwall.xyz">💛 Wanna see one of the best patron sites? Well i am no specialist but hell i tried</a>
-  <br><br>
-  <i>Most of my repos are private, but I promise I do stuff lowk man i am tuff dw</i>
-  <br><br>
-  <a href="https://colorwall.xyz">🌐 Check out our main site!</a>
-  <br><br>
+  <p><b>ENGINE PREVIEW</b> — <a href="https://colorwall.xyz">colorwall.xyz</a> | <a href="https://patron.colorwall.xyz">patron.colorwall.xyz</a></p>
   <img width="1900" height="1034" alt="Colorwall Engine Preview" src="https://private-user-images.githubusercontent.com/204142083/702788036-242ec06f-763e-483d-9371-ee08947070e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQ0MzAxODgsIm5iZiI6MTc5NDQyOTg4OCwicGF0aCI6Ii8yMDQxNDIwODMvNzAyNzg4MDM2LTI0MmVjMDZmLTc2M2UtNDgzZC05MzcxLWVlMDg5NDcwNzBlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTExMVQyMDQ0NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NjNhOTkzNzkyODFjNTM3NjAyOWQ5MGJlNTFiNjRlN2UyMjJhODliYzRjYTRhNzFjMDM4MzMzYTRiM2I3ZmU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.mae9N7WtkMD02mcRgNvIP1-DrNVNK6hUona2Ob5mYNs" />
 </div>
