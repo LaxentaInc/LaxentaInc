@@ -141,7 +141,7 @@ Performant Minecraft utility client engineered to bypass modern anti-cheats via 
 <br>
 
 ---
-> [!NOTE]
+> [!IMPORTANT]
 > <div align="center">
   <p><b>Colorwall's Preview!</b> <a href="https://colorwall.xyz">colorwall.xyz</a> | <a href="https://patron.colorwall.xyz">patron.colorwall.xyz</a></p>
   <img width="1900" height="1034" alt="Colorwall Engine Preview" src="https://private-user-images.githubusercontent.com/204142083/702788036-242ec06f-763e-483d-9371-ee08947070e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTQ0MzAxODgsIm5iZiI6MTc5NDQyOTg4OCwicGF0aCI6Ii8yMDQxNDIwODMvNzAyNzg4MDM2LTI0MmVjMDZmLTc2M2UtNDgzZC05MzcxLWVlMDg5NDcwNzBlMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTExMVQyMDQ0NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NjNhOTkzNzkyODFjNTM3NjAyOWQ5MGJlNTFiNjRlN2UyMjJhODliYzRjYTRhNzFjMDM4MzMzYTRiM2I3ZmU0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.mae9N7WtkMD02mcRgNvIP1-DrNVNK6hUona2Ob5mYNs" />
