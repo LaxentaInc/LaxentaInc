@@ -11,10 +11,10 @@
     <img src="https://img.shields.io/badge/COLORWALL.XYZ-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://discord.com/invite/QYwhay7r2V">
-    <img src="https://shields.io"/>
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
   <a href="https://patron.colorwall.xyz">
-    <img src="https://shields.io"/>
+     <img src="https://img.shields.io/badge/patron.colorwall.xyz-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </div>
 
